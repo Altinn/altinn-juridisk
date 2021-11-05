@@ -7,8 +7,14 @@ assignees: ''
 
 ---
 
-#Beskrivelse 
+### Overskrift
 
-**Knyttet til...**
+**Beskrivelse** 
 
-**Frist**
+**Knyttet til hvilket tiltak i porteføljen**
+
+---
+
+**Estimert tidsbruk**
+
+**Eventuell frist**
