@@ -15,5 +15,8 @@ assignees: ''
 **Knytning til tiltak i porteføljen**
 (Valgfri) 
 
+**Estimert omfang av ønsket bistand**
+(Antall timer)
+
 **Hastegrad**
 Lav - Medium - Høy
